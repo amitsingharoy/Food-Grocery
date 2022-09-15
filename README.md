@@ -1,9 +1,9 @@
 # Project Idea
 
-The idea of this project is to make a grocery android app that users can use to order the groceries they want. It doesn't contain any backend it is only android front end, but it will contain login athentication with firebase.
+The idea of this project is to make a grocery android app by kotlin for SmartInternz- Google Internship Project that users can use to order the groceries they want. It doesn't contain any backend it is only android front end, but it will contain login athentication with firebase.
 
 # Extensions
-I have created a stupid chatbot screen that replies with the same sentence entered.
+I have created a chatbot screen that replies with the same sentence entered.
 I have also created a screen to preview the previous orders total and date
 
 
@@ -27,7 +27,7 @@ enables the user to move to chatbot screen or sign out or to mover to cart or pr
 ![Screenshot](snippets/home.jpeg)
 
 ### Chat Bot screen
-stupid chatbot that replies with the same text you enter
+this chatbot that replies with the same text you enter
 ![Screenshot](snippets/chat.jpeg)
 
 ### Previous Orders screen
